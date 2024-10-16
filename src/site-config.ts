@@ -50,13 +50,13 @@ export const siteConfig = {
       {
         text: 'Notes',
         href: '/blog/notes',
-      },
+      }, /*
       {
         text: 'Talks',
         href: '/blog/talks',
-      },
+      }, */
       {
-        text: 'Projects',
+        text: 'Projets',
         href: '/projects',
       },
     ],
@@ -70,11 +70,11 @@ export const siteConfig = {
       {
         text: 'Notes',
         href: '/blog/notes',
-      },
+      }, /*
       {
         text: 'Talks',
         href: '/blog/talks',
-      },
+      }, */
     ],
   },
   footer: {
