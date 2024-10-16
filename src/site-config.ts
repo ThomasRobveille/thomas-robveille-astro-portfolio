@@ -1,5 +1,5 @@
 export const siteConfig = {
-  author: 'Kevin Wong',
+  author: 'Thomas Robveille',
   title: 'Vitesse theme for Astro',
   subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
   description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
@@ -7,26 +7,26 @@ export const siteConfig = {
     src: '/hero.jpg',
     alt: 'Website Main Image',
   },
-  email: 'kevinwong865@gmail.com',
+  email: 'thomasrobveille@gmail.com',
   socialLinks: [
     {
       text: 'GitHub',
-      href: '',
+      href: 'https://github.com/ThomasRobveille',
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
     {
       text: 'Twitter',
-      href: '',
+      href: 'https://x.com/thomasrobveille',
       icon: 'i-simple-icons-x',
       header: 'i-ri-twitter-x-line',
     },
     {
       text: 'Linkedin',
-      href: '',
+      href: 'https://www.linkedin.com/in/thomas-robveille/',
       icon: 'i-simple-icons-linkedin',
     },
-    {
+    /* {
       text: 'Instagram',
       href: '',
       icon: 'i-simple-icons-instagram',
@@ -35,7 +35,7 @@ export const siteConfig = {
       text: 'Youtube',
       href: '',
       icon: 'i-simple-icons-youtube',
-    },
+    }, */
   ],
   header: {
     logo: {
